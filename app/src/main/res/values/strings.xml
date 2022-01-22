@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UXCAM</string>
+    <string name="enter_the_city_name">Enter the city name</string>
+    <string name="uxcam_weather">UXCAM Weather</string>
+    <string name="recent_search">Recent search</string>
+    <string name="clear_all">Clear All</string>
+    <string name="today">Today</string>
+</resources>
